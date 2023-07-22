@@ -118,7 +118,7 @@ body .container section .info .sub-info div:last-of-type {
     grid-row: 2/3;
 }
 body .main-color {
-    color: #c23616;
+    color: #b95743;
 }
 @media (max-width: 1200px) and (min-width: 992px) {
     body .container {
