@@ -21,6 +21,7 @@ body {
     /* main color of the page */
     /* media queries */
 }
+
 body .gradient {
     position: absolute;
     width: 100%;
@@ -123,6 +124,17 @@ body .container section .info .sub-info div:last-of-type {
 }
 body .main-color {
     color: #ff917b;
+}
+.searcher {
+    border: 3px solid #ff917b;
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 25px;
+    background-color: #000000;
+}
+.h1 {
+    font-size: 38px;
+    color: #ffffff;
 }
 @media (max-width: 1200px) and (min-width: 992px) {
     body .container {
