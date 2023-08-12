@@ -133,8 +133,9 @@ body .main-color {
     background-color: #000000;
 }
 .h1 {
-    font-size: 38px;
+    font-size: 34px;
     color: #ffffff;
+    font-family: 'Caprasimo', cursive;
 }
 @media (max-width: 1200px) and (min-width: 992px) {
     body .container {
