@@ -133,7 +133,8 @@ body .main-color {
     background-color: #000000;
 }
 .h1 {
-    font-size: 34px;
+    font-size: 30px;
+    padding: 8px;
     color: #ffffff;
     font-family: 'Caprasimo', cursive;
 }
